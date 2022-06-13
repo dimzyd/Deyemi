@@ -1,0 +1,18 @@
+#header-nav{
+    background-color: gray;
+    border: 0;
+    border-radius: 0;
+
+}
+#main-content{
+margin: auto;
+width: 100%;
+}
+
+
+ #tile{
+    background-color: gray;
+    padding: auto;
+    height: 1000px;
+    margin: 10px;
+}
